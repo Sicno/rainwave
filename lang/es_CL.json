@@ -224,6 +224,7 @@
    "prefs_playlist_sort_by"                          : "Ordenar Por",
    "prefs_sort_playlist_by_alpha"                    : "Alfabético",
    "prefs_sort_playlist_by_rating_user"              : "Puntaje",
+   "prefs_sort_playlist_by_cool"                     : "Reposo",
    "m3u_downloads"                                   : "Descargas de M3U",
    "skip_intro_mode"                                 : "Saltar El Modo Introducción",
    "do_intro_mode"                                   : "Volver Al Modo Introducción",
